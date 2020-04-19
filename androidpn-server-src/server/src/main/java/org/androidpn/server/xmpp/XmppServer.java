@@ -165,6 +165,8 @@ public class XmppServer {
         String baseDir = System.getProperty("base.dir", "..");
         log.debug("base.dir=" + baseDir);
 
+        System.out.println("lalallalal lams");
+
         if (serverHomeDir == null) {
             try {
                 File confDir = new File(baseDir, "conf");
@@ -177,6 +179,10 @@ public class XmppServer {
                 // Ignore
             }
         }
+
+
+
+
 
         if (serverHomeDir == null) {
             System.err.println("Could not locate home.");

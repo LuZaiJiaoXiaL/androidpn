@@ -1,0 +1,16 @@
+{DEBUG} [2020-04-19 16:54:43,647] <org.androidpn.server.xmpp.XmppServer> : base.dir=..
+{INFO } [2020-04-19 16:54:43,654] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:54:43,654] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:54:43,654] <org.androidpn.server.xmpp.XmppServer> : Server halted
+{DEBUG} [2020-04-19 16:55:01,523] <org.androidpn.server.xmpp.XmppServer> : base.dir=..
+{INFO } [2020-04-19 16:55:01,527] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:55:01,528] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:55:01,540] <org.androidpn.server.xmpp.XmppServer> : Server halted
+{DEBUG} [2020-04-19 16:55:30,798] <org.androidpn.server.xmpp.XmppServer> : base.dir=..
+{INFO } [2020-04-19 16:55:30,802] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:55:30,803] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:55:30,803] <org.androidpn.server.xmpp.XmppServer> : Server halted
+{DEBUG} [2020-04-19 16:55:56,296] <org.androidpn.server.xmpp.XmppServer> : base.dir=..
+{INFO } [2020-04-19 16:55:56,300] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:55:56,300] <org.androidpn.server.xmpp.XmppServer> : XmppServer stopped
+{INFO } [2020-04-19 16:55:56,300] <org.androidpn.server.xmpp.XmppServer> : Server halted

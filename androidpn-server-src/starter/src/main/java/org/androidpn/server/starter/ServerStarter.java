@@ -59,15 +59,22 @@ public class ServerStarter {
 
             String baseDirString = System.getProperty("base.dir", "..");
 
-            File confDir = new File(baseDirString + File.separator
-                    + DEFAULT_CONF_DIR);
+//            File confDir = new File(baseDirString + File.separator
+//                    + DEFAULT_CONF_DIR);
+
+            File confDir=new File("D:\\Software\\AndroidPush\\androidpn-server-0.5.0-bin\\androidpn-server-0.5.0\\conf");
+
             if (!confDir.exists()) {
                 throw new RuntimeException("Conf directory "
                         + confDir.getAbsolutePath() + " does not exist.");
             }
 
-            File libDir = new File(baseDirString + File.separator
-                    + DEFAULT_LIB_DIR);
+//            File libDir = new File(baseDirString + File.separator
+//                    + DEFAULT_LIB_DIR);
+
+            File libDir = new File("D:\\Software\\AndroidPush\\androidpn-server-0.5.0-bin\\androidpn-server-0.5.0\\lib");
+
+
             if (!libDir.exists()) {
                 throw new RuntimeException("Lib directory "
                         + libDir.getAbsolutePath() + " does not exist.");
